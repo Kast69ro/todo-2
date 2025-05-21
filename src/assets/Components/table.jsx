@@ -203,7 +203,7 @@ const filteredRows = rows.filter((row) =>
             </DialogActions>
           </form>
         </Dialog>
-      <Paper sx={{ height: 500, width: "50%" ,margin:'auto' }}>
+      <Paper sx={{ height: 500, width: "70%" ,margin:'auto' }}>
         <DataGrid
           rows={filteredRows}
           columns={columns}
